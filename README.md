@@ -35,7 +35,7 @@ hasło: ...
 
 ### Baza danych
 
-https://szczeszek.home.pl/sql
+phpmyadmin: https://szczeszek.home.pl/sql
 
 użytkownik: 01493838_uczentl
 
