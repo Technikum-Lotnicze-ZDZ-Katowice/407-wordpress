@@ -25,10 +25,18 @@ Tomek: Blog o grze : http://animateria.pl/uczentl/tomek/stronatomek
 
 
 
-Dane hostingu:
+### Dane hostingu:
 
-host: szczeszek.home.pl
+host: https://szczeszek.home.pl
 
 użytkownik: uczentl@animateria.pl
 
+hasło: ...
 
+### Baza danych
+
+https://szczeszek.home.pl/sql
+
+użytkownik: 01493838_uczentl
+
+hasło: ...
