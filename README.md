@@ -20,11 +20,6 @@ Krzysztof: Klep : http://animateria.pl/uczentl/krzysiek/wp
 
 Tomek: Blog o grze : http://animateria.pl/uczentl/tomek/stronatomek
 
-
-
-
-
-
 ### Dane hostingu:
 
 host: https://szczeszek.home.pl
@@ -57,7 +52,7 @@ użytkownicy: 01493838_uczentl
 
 - 01493838_tomek
 
-
+host: mysql8
 
 hasło: ...
 
